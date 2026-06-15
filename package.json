@@ -1,0 +1,17 @@
+{
+  "name": "short-url-workbench",
+  "version": "1.0.0",
+  "description": "A local URL shortener with persistent storage, custom aliases, redirect links, and a responsive browser UI.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check public/app.js"
+  },
+  "keywords": [
+    "url-shortener",
+    "short-link",
+    "local-app"
+  ],
+  "author": "",
+  "license": "MIT"
+}
