@@ -2,6 +2,8 @@
 
 A local website for turning long URLs or safe app links into short links like `http://127.0.0.1:3000/s/my-link`.
 
+<img width="1873" height="923" alt="url short" src="https://github.com/user-attachments/assets/b321db2d-aeed-4370-b1c6-d3de383889db" />
+
 ## Run
 
 1. Open this folder in a terminal.
